@@ -1,3 +1,6 @@
+//MainActivity.java - Event control of Calculator
+//Author : Winnguyen-Team16ES-TeamProjecttambo
+//Date:5th July 2019
 package com.example.calculator2;
 
 import androidx.appcompat.app.AppCompatActivity;
